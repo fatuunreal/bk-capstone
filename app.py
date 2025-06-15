@@ -28,6 +28,7 @@ label_mapping = {
 }
 
 # === Streamlit App ===
+st.write("FATU RAHMAT A11.2022.14831 Bengkel Koding DS-04")
 st.title("Obesity Classification App")
 st.write("Masukkan data pribadi dan kebiasaan Anda:")
 
